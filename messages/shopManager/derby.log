@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Dec 23 08:50:15 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0159-2aa8-b0d4-00001506cb90 
+on database directory memory:/Users/jan/dev/microservices/microservices-breaking-up-a-monolith/services/messages/shopManager/testdb with class loader sun.misc.Launcher$AppClassLoader@14dad5dc 
+Loaded from file:/Users/jan/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b14
+user.dir=/Users/jan/dev/microservices/microservices-breaking-up-a-monolith/services/messages/shopManager
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
